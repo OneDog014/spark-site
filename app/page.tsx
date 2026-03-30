@@ -166,9 +166,9 @@ export default function SparkSite() {
         <section className="mx-auto max-w-5xl px-6 pb-18 pt-20 text-center">
           <p className="text-sm tracking-[0.3em] text-emerald-300">INDEPENDENT INITIATIVE</p>
           <h1 className="mt-6 text-4xl font-semibold leading-tight text-white sm:text-5xl lg:text-6xl">
-            この業界、どこかおかしいと
+            IT業界の構造に、
             <br />
-            思っている人へ
+            違和感を持っている人へ
           </h1>
           <p className="mx-auto mt-8 max-w-3xl text-lg leading-8 text-zinc-300 sm:text-xl">
             正しいことより、違和感を言葉にする場所。整っていなくていい。結論がなくてもいい。
