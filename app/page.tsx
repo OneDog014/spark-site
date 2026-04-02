@@ -411,13 +411,6 @@ export default function SparkSite() {
             {text.heroBody[lang]}
           </p>
 
-          <div className="mt-10 flex justify-center">
-            <img
-              src="/hero.png"
-              alt="abstract structure"
-              className="w-full max-w-2xl opacity-80"
-            />
-          </div>
         </section>
 
         <section className="mx-auto max-w-5xl px-6 py-8">
